@@ -1,0 +1,3 @@
+Cadastro "criando um comando para cadastro dos clientes"
+inicio  
+fim
